@@ -34,9 +34,9 @@ It have 3 payloads
 
 ## Screenshots
 
-![GDI Effects](https://imgur.com/a/VONuRMZ)
+[GDI Effects](https://imgur.com/a/VONuRMZ)
 
-![BSOD](https://imgur.com/a/1QKNLQx)
+[BSOD](https://imgur.com/a/1QKNLQx)
 
 
 ## Related
