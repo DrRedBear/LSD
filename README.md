@@ -27,9 +27,6 @@ It have 3 payloads
 2- it will start playing a really loud and annoying Audio frequency that will get constantly higher
 
 3- after 20 seconds running it'll cause a BSOD
-## Autors
-
-- [@MustacheBR](https://www.github.com/MustacheBR)
 
 
 ## Screenshots
